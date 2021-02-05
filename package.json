@@ -1,0 +1,12 @@
+{
+  "name": "magic-8ball",
+  "version": "1.0.0",
+  "description": "A magic 8ball!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aktindo",
+  "license": "ISC",
+  "dependencies": {}
+}

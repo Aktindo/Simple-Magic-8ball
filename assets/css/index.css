@@ -1,0 +1,41 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+    background: #1abc9c;
+}
+
+.btn.btn-aqua {
+    background-color: #16a085;
+}
+
+.btn.btn-aqua:focus, .form-control:focus {
+    border-color: #16a085;
+    box-shadow: 0 0 0 0.3rem rgba(10, 68, 56, 0.25);
+}
+
+.jumbotron {
+    margin-top: 25vh;
+    margin-bottom: 35vh;
+}
+
+.question {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.form-control {
+    background: #2bac92 !important;
+    border: none;
+}
+
+a {
+    color: #16a085;
+    text-decoration: none !important;
+}
+
+a:hover {
+    color: #397a6d;
+}
+
+.about-me-footer, .social-links-footer {
+    margin-top: 35px;
+} 
